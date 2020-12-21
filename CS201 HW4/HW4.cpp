@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int HW4()
+int main()
 {
 	vector<Book> books; //Vector for holding a list of objects of class "Book"
 	int iMonth, iDay, iYear; //Variable to hold date(s) in integer form
